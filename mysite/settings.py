@@ -25,7 +25,7 @@ SECRET_KEY = '2jn-095e(25-k*is615wdo928gu+70vx!u5wm&$+@*gk#j@!2='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1:8000", "tundett.herokuapp.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "tundett.herokuapp.com"]
 
 
 # Application definition
